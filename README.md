@@ -1,4 +1,4 @@
-This project is my, Pranav Narahari, implementation of UNO using Java and IntelliJ for CS242.
+This project is my, Pranav Narahari, implementation of UNO using Java and IntelliJ.
 This project is a large scale project with multiple classes uses concepts such as polymorphism, abstract classes and methods, and unit-testing.
 I approached this project using the TDD process, i.e. Test Driven Development. 
 Classes, methods, and variables are commented where there exists ambiguity and there is special attention to the primary functionality of the project.
